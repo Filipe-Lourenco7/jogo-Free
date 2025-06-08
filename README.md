@@ -1,1 +1,1 @@
-Jogo criado pelo FreeCodeCamp, todo crèdito para eles, estou aprendendo muito e conseguindo aplicar na pràtica os meus conhecimentos.
+Jogo criado pelo FreeCodeCamp. Todo o crédito é deles. Estou aprendendo muito e conseguindo aplicar na prática os meus conhecimentos.
